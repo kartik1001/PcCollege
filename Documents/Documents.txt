@@ -1,0 +1,13 @@
+https://github.com/
+
+1) Extra tool for autmatic testing , build for you github
+
+     https://circleci.com/add-projects
+
+2) github URL
+     
+     https://github.com/kartik1001/PcCollege.git
+     email:kartik.garagi24@gmail.com
+     username:kartik1001
+     password:kartik2sr08cs024
+

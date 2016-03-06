@@ -1,0 +1,16 @@
+E:\Projects\CPaperSchool\CPaperSchoolBAL\bin\Debug\CPaperSchoolBAL.dll
+E:\Projects\CPaperSchool\CPaperSchoolBAL\bin\Debug\CPaperSchoolBAL.pdb
+E:\Projects\CPaperSchool\CPaperSchoolBAL\bin\Debug\CPaperSchoolDAL.dll
+E:\Projects\CPaperSchool\CPaperSchoolBAL\bin\Debug\CPaperSchoolDAL.pdb
+E:\Projects\CPaperSchool\CPaperSchoolBAL\obj\Debug\CPaperSchoolBAL.csprojResolveAssemblyReference.cache
+E:\Projects\CPaperSchool\CPaperSchoolBAL\obj\Debug\CPaperSchoolBAL.dll
+E:\Projects\CPaperSchool\CPaperSchoolBAL\obj\Debug\CPaperSchoolBAL.pdb
+E:\Projects\CPaperSchool\CPaperSchoolBAL\bin\Debug\EntityFramework.xml
+E:\Company\CPaperSchool\CPaperSchoolBAL\bin\Debug\CPaperSchoolBAL.dll
+E:\Company\CPaperSchool\CPaperSchoolBAL\bin\Debug\CPaperSchoolBAL.pdb
+E:\Company\CPaperSchool\CPaperSchoolBAL\bin\Debug\CPaperSchoolDAL.dll
+E:\Company\CPaperSchool\CPaperSchoolBAL\bin\Debug\CPaperSchoolDAL.pdb
+E:\Company\CPaperSchool\CPaperSchoolBAL\bin\Debug\EntityFramework.xml
+E:\Company\CPaperSchool\CPaperSchoolBAL\obj\Debug\CPaperSchoolBAL.csprojResolveAssemblyReference.cache
+E:\Company\CPaperSchool\CPaperSchoolBAL\obj\Debug\CPaperSchoolBAL.dll
+E:\Company\CPaperSchool\CPaperSchoolBAL\obj\Debug\CPaperSchoolBAL.pdb
